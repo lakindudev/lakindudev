@@ -1,6 +1,6 @@
 <div align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px height="100px"></picture></div>
 <h1 align="center">Hi 👋, I'm Lakindu Perera</h1>
-<h3 align="center">I am currently an undergraduate student at the University of Westminster, pursuing a BSc(Hons) in Computer Science, and also a student at the University of Sri Jayawardhanapura, pursuing a BSc in Physical Science. I have a strong passion for Web Development.</h3>
+<h3 align="center">Computer Science Student | Passionate About Code and Innovation</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lakindudev&label=Profile%20views&color=0e75b6&style=flat" alt="lakindudev" /> </p>
 
