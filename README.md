@@ -25,21 +25,82 @@
 <a href="https://www.instagram.com/lakindu_x/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakindu_x" height="45" width="45" /></a>
 </p>
 
-🛠️ Tech Stack
-<p align="center"> <!-- Programming Languages --> <strong>Languages:</strong><br/> <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" alt="Languages" /> <br/><br/> <!-- Frameworks and Libraries -->
-<strong>Frameworks & Libraries:</strong><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,bootstrap,tailwind" alt="Frameworks & Libraries" />
-<br/><br/>
+## My Tech Stack
 
-<!-- Tools and Platforms -->
-<strong>Tools & Platforms:</strong><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Tools & Platforms" />
-<br/><br/>
+### Frontend Development
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+  </a>
+</p>
 
-<!-- Learning -->
-<strong>Currently Learning:</strong><br/>
-<img src="https://img.shields.io/badge/Learning-Ballerina-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCA1MDAgNTAwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMDAuNzE0IDMyNi4zNDFMMTczLjAzNyAyMjQuMzkzTDI2Mi42NzIgMjIxLjYzOEwyNzAuMDIxIDI1MC4wODlMMzExLjI0IDUwMEgyMTYuOTQ3TDIwMC43MTQgMzI2LjM0MVoiIGZpbGw9IiMzZDE0NmQiLz48cGF0aCBkPSJNMTg4LjUzOSAyNzQuMDI4TDExMi41NDUgMjczLjU5N0w3Ni41NzA5IDExMi4zNDNMOTIuMjE2NyAxMC4wMDAzSDE4NC45NDRMMjA3LjI4MiAxMjguNzM5TDE4OC41MzkgMjc0LjAyOFoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=" />
+### Backend Development
+<p align="center">
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="50" height="50"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="50" height="50"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  </a>
+</p>
 
+### Database
+<p align="center">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>
+  </a>
+</p>
+
+### Tools & Others
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
+  </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="50" height="50"/>
+  </a>
+  <a href="https://trello.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="50" height="50"/>
+  </a>
+  <a href="https://cursor.sh/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/cursor/cursor-icon.svg" alt="cursor" width="50" height="50"/>
+  </a>
 </p>
 
 ## My Statistics
