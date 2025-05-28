@@ -9,11 +9,11 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 280px ></picture>
 
-- 🌱 I’m currently learning **Java,Web Development**
+- 🎓 I'm an undergraduate at University of Westminster, affiliated with IIT.
   
-- :school: I'm undergraduate at University of Westminster
+- 🌱 Currently diving deep into Java, Web Development, and exploring full-stack technologies.
 
-- 💬 Ask me about **Java,HTML,CSS and JS**
+- 💬 Ask me about **Java,Python,JS**
 
 - 📫 How to reach me **lakinduperera458@gmail.com**
   
