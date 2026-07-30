@@ -105,6 +105,6 @@
 
 ## My Statistics
 
-| ![lakindudev's github stats](https://github-stats-extended.vercel.app/api?username=lakindudev&show_icons=true&theme=tokyonight) | ![lakindudev GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakindudev&theme=tokyonight)                                                                                                     |
+| ![lakindudev's github stats](https://github-stats-extended.vercel.app/api?username=lakindudev&show_icons=true&theme=tokyonight) | ![lakindudev GitHub Streak](https://streak-stats.demolab.com/?user=lakindudev&theme=tokyonight&cache_bypass=1)                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=lakindudev&theme=tokyonight)                      | ![Github Stars](https://github-stats-extended.vercel.app/api?username=lakindudev&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
