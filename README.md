@@ -8,13 +8,12 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 280px ></picture>
 
-- 🎓 I'm an undergraduate at IIT, affiliated with University of Westminster.
-- 🌱 Currently diving deep into Java, Web Development, and exploring full-stack technologies.
-
-- 💬 Ask me about **Java,Python,JS**
-
+- 🎓 I'm a final year undergraduate at IIT, affiliated with University of Westminster.
+- 💼 Former Intern at WSO2
 - 📫 How to reach me **lakinduperera458@gmail.com**
-- 🧠 Motto: "Keep learning. Keep building. Keep evolving."
+- 🔗 LinkedIn: [lakindu-perera](https://www.linkedin.com/in/lakindu-perera-297b752b2/)
+- 📦 NPM: [lakindu_perera](https://www.npmjs.com/settings/lakindu_perera/packages)
+- 🧠 Motto: "Clean code and keep work likewise"
   <br><br><br>
 
 ## Connect with me
@@ -23,6 +22,7 @@
 <a href="https://www.linkedin.com/in/lakindu-perera-297b752b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakindu perera" height="45" width="45" /></a>
 <a href="https://www.facebook.com/profile.php?id=61555188457830&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lakindu perera" height="45" width="45" /></a>
 <a href="https://www.instagram.com/lakindu_x/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakindu_x" height="45" width="45" /></a>
+<a href="https://www.npmjs.com/settings/lakindu_perera/packages" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm packages" height="45" width="45" /></a>
 </p>
 
 ## My Tech Stack
